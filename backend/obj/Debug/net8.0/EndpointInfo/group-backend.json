@@ -27,6 +27,28 @@
           }
         }
       }
+    },
+    "/api/Article/CollaborativeItem/{id}": {
+      "get": {
+        "tags": [
+          "Article"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": { }

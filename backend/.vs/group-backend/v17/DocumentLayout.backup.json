@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|c:\\users\\zachk\\onedrive\\desktop\\455-group-assignment\\backend\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|solutionrelative:controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|c:\\users\\zachk\\onedrive\\desktop\\455-group-assignment\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|c:\\users\\zachk\\onedrive\\desktop\\455-group-assignment\\backend\\data\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|solutionrelative:data\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|c:\\users\\zachk\\onedrive\\desktop\\455-group-assignment\\backend\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|solutionrelative:controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|c:\\users\\zachk\\onedrive\\desktop\\455-group-assignment\\backend\\data\\articledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|solutionrelative:data\\articledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|c:\\users\\zachk\\onedrive\\desktop\\455-group-assignment\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|c:\\users\\zachk\\onedrive\\desktop\\455-group-assignment\\backend\\data\\collaborativerecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|solutionrelative:data\\collaborativerecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|c:\\users\\zachk\\onedrive\\desktop\\455-group-assignment\\backend\\data\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|solutionrelative:data\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74C77FEB-43F4-461D-B2B5-291757E9E18C}|group-backend.csproj|c:\\users\\zachk\\onedrive\\desktop\\455-group-assignment\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,19 +55,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T18:49:25.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ArticleController.cs",
               "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\Controllers\\ArticleController.cs",
               "RelativeDocumentMoniker": "Controllers\\ArticleController.cs",
               "ToolTip": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\Controllers\\ArticleController.cs",
               "RelativeToolTip": "Controllers\\ArticleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T18:26:38.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ArticleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\Data\\ArticleDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ArticleDbContext.cs",
+              "ToolTip": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\Data\\ArticleDbContext.cs",
+              "RelativeToolTip": "Data\\ArticleDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:28:37.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollaborativeRecommendation.cs",
+              "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\Data\\CollaborativeRecommendation.cs",
+              "RelativeDocumentMoniker": "Data\\CollaborativeRecommendation.cs",
+              "ToolTip": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\Data\\CollaborativeRecommendation.cs",
+              "RelativeToolTip": "Data\\CollaborativeRecommendation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:16:23.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Article.cs",
               "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\Data\\Article.cs",
               "RelativeDocumentMoniker": "Data\\Article.cs",
@@ -75,31 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArticleDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\Data\\ArticleDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ArticleDbContext.cs",
-              "ToolTip": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\Data\\ArticleDbContext.cs",
-              "RelativeToolTip": "Data\\ArticleDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T18:28:37.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-04T18:49:25.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\455-Group-Assignment\\backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

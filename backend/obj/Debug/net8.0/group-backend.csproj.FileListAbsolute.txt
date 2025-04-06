@@ -69,3 +69,4 @@ C:\Users\zachk\OneDrive\Desktop\455-Group-Assignment\backend\bin\Debug\net8.0\ru
 C:\Users\zachk\OneDrive\Desktop\455-Group-Assignment\backend\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\zachk\OneDrive\Desktop\455-Group-Assignment\backend\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\zachk\OneDrive\Desktop\455-Group-Assignment\backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\zachk\OneDrive\Desktop\455-Group-Assignment\backend\obj\Debug\net8.0\group-backend.sourcelink.json

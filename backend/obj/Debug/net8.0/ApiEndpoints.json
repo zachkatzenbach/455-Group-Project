@@ -14,5 +14,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "group_backend.Controllers.ArticleController",
+    "Method": "GetCollaborativeItemRecs",
+    "RelativePath": "api/Article/CollaborativeItem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

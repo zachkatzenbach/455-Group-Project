@@ -9,6 +9,7 @@ namespace group_backend.Data
 
         }
 
-        public DbSet<Article> content_recommendations { get; set; } 
+        public DbSet<Article> content_recommendations { get; set; }
+        public DbSet<CollaborativeRecommendation> collaborative_recommendations { get; set; }
     }
 }
