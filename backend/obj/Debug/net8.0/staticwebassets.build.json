@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aVWYDYIx9sZvxcBG9Mk8ZL1+DqpxV5mmSu+mNi/Ma9g=",
+  "Source": "group-backend",
+  "BasePath": "_content/group-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

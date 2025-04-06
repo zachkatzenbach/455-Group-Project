@@ -1,0 +1,6 @@
+@group_backend_HostAddress = http://localhost:5079
+
+GET {{group_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
